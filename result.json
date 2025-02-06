@@ -1,0 +1,88 @@
+{
+    "timestamp": "2025-02-06 21:15:56",
+    "accessible_count": 16,
+    "inaccessible_count": 0,
+    "total_count": 16,
+    "link_status": [
+        {
+            "name": "青桔气球",
+            "link": "https://blog.qjqq.cn/",
+            "latency": 1.47
+        },
+        {
+            "name": "张洪Heo",
+            "link": "https://blog.zhheo.com/",
+            "latency": 1.17
+        },
+        {
+            "name": "清羽飞扬",
+            "link": "https://blog.liushen.fun/",
+            "latency": 0.76
+        },
+        {
+            "name": "安知鱼",
+            "link": "https://blog.anheyu.com/",
+            "latency": 2.81
+        },
+        {
+            "name": "SCFCの博客",
+            "link": "https://blog.scfc.top/",
+            "latency": 0.09
+        },
+        {
+            "name": "朽丘秋雨",
+            "link": "https://koxiuqiu.cn/",
+            "latency": 0.66
+        },
+        {
+            "name": "梦爱吃鱼",
+            "link": "https://blog.bsgun.cn/",
+            "latency": 0.7
+        },
+        {
+            "name": "無名小栈",
+            "link": "https://blog.imsyy.top/",
+            "latency": 1.55
+        },
+        {
+            "name": "云团子的博客",
+            "link": "https://blog.cutetuan.cn/",
+            "latency": 1.01
+        },
+        {
+            "name": "可爱的苏苏吖",
+            "link": "https://blog.0om.top/",
+            "latency": 1.29
+        },
+        {
+            "name": "洋洋Blog",
+            "link": "https://yangy.co/",
+            "latency": 4.34
+        },
+        {
+            "name": "幽默的小刘吖",
+            "link": "https://blog.lzchi.top/",
+            "latency": 0.91
+        },
+        {
+            "name": "Imz",
+            "link": "https://blog.imz.me/",
+            "latency": -1
+        },
+        {
+            "name": "超危狼猫の小屋",
+            "link": "https://blog.cwlm.xyz/",
+            "latency": 9.63
+        },
+        {
+            "name": "唐志远",
+            "link": "https://fe32.top/",
+            "latency": 1.32
+        },
+        {
+            "name": "Mo的记事簿",
+            "link": "https://blog.xiowo.net/",
+            "latency": 0.54
+        }
+    ]
+}
